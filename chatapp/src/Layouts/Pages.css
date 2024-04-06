@@ -1,0 +1,16 @@
+/* .content_page,
+.cahtsss {
+  &::-webkit-scrollbar {
+    width: 1px !important;
+   
+  }
+
+  &::-webkit-scrollbar-track {
+    background: #faf4f9;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: #c31a7f;
+    border-radius: 10px;
+  }
+} */
